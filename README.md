@@ -1,6 +1,6 @@
 # Titanic Survival Prediction using Decision Trees and Random Forests
 
-This repository contains code for predicting survival on the Titanic using machine learning techniques, specifically decision trees and random forests. The code is written in Python and executed in a Jupyter Notebook (`Titanic_Survival_Prediction.ipynb`).
+This repository contains code for predicting survival on the Titanic using machine learning techniques, specifically decision trees and random forests. The code is written in Python and executed in a Jupyter Notebook (Titanic_Survival_Prediction.ipynb).
 
 ## Dataset
 
@@ -17,13 +17,13 @@ The dataset used in this project is the famous Titanic dataset, which contains i
 
 ## Files in the Repository
 
-- `Titanic_Survival_Prediction.ipynb`: Jupyter Notebook containing the Python code.
-- `README.md`: This file providing an overview of the project.
+- Titanic_Survival_Prediction.ipynb: Jupyter Notebook containing the Python code.
+- README.md: This file providing an overview of the project.
 
 ## How to Use
 
-1. Clone the repository to your local machine using `git clone https://github.com/Prayash-Das/Titanic-Survival-Prediction.git`.
-2. Open the Jupyter Notebook `Titanic_Survival_Prediction.ipynb` to view and run the code.
+1. Clone the repository to your local machine using git clone https://github.com/Prayash-Das/Titanic-Survival-Prediction.git.
+2. Open the Jupyter Notebook Titanic_Survival_Prediction.ipynb` to view and run the code.
 3. Make sure you have Python and the required libraries installed (pandas, numpy, scikit-learn, matplotlib).
 4. Run each cell in the notebook to preprocess the data, train the models, and evaluate their performance.
 5. Explore the visualizations of decision trees and confusion matrices to understand the model's behavior.
