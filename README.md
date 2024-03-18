@@ -23,7 +23,7 @@ The dataset used in this project is the famous Titanic dataset, which contains i
 ## How to Use
 
 1. Clone the repository to your local machine using git clone https://github.com/Prayash-Das/Titanic-Survival-Prediction.git.
-2. Open the Jupyter Notebook Titanic_Survival_Prediction.ipynb` to view and run the code.
+2. Open the Jupyter Notebook Titanic_Survival_Prediction.ipynb to view and run the code.
 3. Make sure you have Python and the required libraries installed (pandas, numpy, scikit-learn, matplotlib).
 4. Run each cell in the notebook to preprocess the data, train the models, and evaluate their performance.
 5. Explore the visualizations of decision trees and confusion matrices to understand the model's behavior.
